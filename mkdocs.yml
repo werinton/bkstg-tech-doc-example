@@ -1,0 +1,9 @@
+site_name: API Style Guide
+nav:
+  - Início: index.md
+  - Boas Práticas: boas-praticas.md
+  - Versionamento: versionamento.md
+  - Segurança: seguranca.md
+
+plugins:
+  - techdocs-core
