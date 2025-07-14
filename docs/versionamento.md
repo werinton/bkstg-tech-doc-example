@@ -1,0 +1,3 @@
+# Versionamento
+
+Como versionar apis.
